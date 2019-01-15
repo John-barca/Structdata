@@ -1,0 +1,27 @@
+﻿  Stack.c
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(76): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(76): warning C4024: “StackInit”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(77): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(77): warning C4024: “StackPush”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(78): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(78): warning C4024: “StackPush”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(79): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(79): warning C4024: “StackPush”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(80): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(80): warning C4024: “StackPush”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(81): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(81): warning C4024: “StackPush”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(82): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(82): warning C4024: “StackPush”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(83): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(83): warning C4024: “StackPush”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(86): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(86): warning C4024: “StackEmpty”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(88): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(88): warning C4024: “StackTop”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(89): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(89): warning C4024: “StackPop”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(93): warning C4047: “函数”:“stack *”与“stack **”的间接级别不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(93): warning C4024: “StackDestroy”: 形参和实参 1 的类型不同
+c:\users\韩浩东\source\repos\stacktext\stacktext\stack.c(66): warning C4715: “StackEmpty”: 不是所有的控件路径都返回值
+  StackText.vcxproj -> C:\Users\韩浩东\source\repos\StackText\Debug\StackText.exe
